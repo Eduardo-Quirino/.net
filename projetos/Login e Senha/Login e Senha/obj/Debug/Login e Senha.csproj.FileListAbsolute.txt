@@ -1,0 +1,11 @@
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\bin\Debug\Login e Senha.exe.config
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\bin\Debug\Login e Senha.exe
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\bin\Debug\Login e Senha.pdb
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login e Senha.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login_e_Senha.Form_Principal.resources
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login_e_Senha.Form_Boas_Vindas.resources
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login_e_Senha.Properties.Resources.resources
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login e Senha.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login e Senha.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login e Senha.exe
+C:\Users\edu35\Documents\senac\.net\projetos\Login e Senha\Login e Senha\obj\Debug\Login e Senha.pdb

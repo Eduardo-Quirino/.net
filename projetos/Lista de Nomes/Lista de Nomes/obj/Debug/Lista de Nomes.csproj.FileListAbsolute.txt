@@ -1,0 +1,10 @@
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\bin\Debug\Lista de Nomes.exe.config
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\bin\Debug\Lista de Nomes.exe
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\bin\Debug\Lista de Nomes.pdb
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.AssemblyReference.cache
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista_de_Nomes.FrmListadeNomes.resources
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista_de_Nomes.Properties.Resources.resources
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.GenerateResource.cache
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.csproj.CoreCompileInputs.cache
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.exe
+C:\Users\senac\source\repos\Lista de Nomes\Lista de Nomes\obj\Debug\Lista de Nomes.pdb

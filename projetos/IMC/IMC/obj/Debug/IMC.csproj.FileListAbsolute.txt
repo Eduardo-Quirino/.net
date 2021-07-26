@@ -1,0 +1,10 @@
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\obj\Debug\IMC.pdb
+C:\Users\edu35\Documents\senac\.net\projetos\IMC\IMC\obj\Debug\IMC.Form_IMC.resources

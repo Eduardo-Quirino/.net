@@ -1,0 +1,10 @@
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\bin\Debug\média de quatro notas.exe.config
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\bin\Debug\média de quatro notas.exe
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\bin\Debug\média de quatro notas.pdb
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\obj\Debug\média de quatro notas.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\obj\Debug\média_de_quatro_notas.FrmCalculaMedia.resources
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\obj\Debug\média_de_quatro_notas.Properties.Resources.resources
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\obj\Debug\média de quatro notas.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\obj\Debug\média de quatro notas.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\obj\Debug\média de quatro notas.exe
+C:\Users\edu35\Documents\senac\.net\projetos\média de quatro notas\média de quatro notas\obj\Debug\média de quatro notas.pdb
