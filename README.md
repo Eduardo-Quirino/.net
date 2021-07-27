@@ -1,6 +1,1 @@
-##                    **Programa Contador de Horas via Sistema**
-
-![](img_readme\relógio.png)
-
-- Criado programa com Windows Form, que identifica as informações do sistema operacional e carrega seus dados para apresentar informações de data e hora.  
-
+![image](https://user-images.githubusercontent.com/69724072/127190012-d58daed8-b36e-450e-9c3c-bf8dac1bf0b1.png)
