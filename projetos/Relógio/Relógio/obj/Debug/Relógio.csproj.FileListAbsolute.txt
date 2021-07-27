@@ -1,0 +1,10 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\bin\Debug\Relógio.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\bin\Debug\Relógio.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\bin\Debug\Relógio.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\obj\Debug\Relógio.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\obj\Debug\Relógio.FormRelogio.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\obj\Debug\Relógio.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\obj\Debug\Relógio.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\obj\Debug\Relógio.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\obj\Debug\Relógio.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Relógio\Relógio\obj\Debug\Relógio.pdb
