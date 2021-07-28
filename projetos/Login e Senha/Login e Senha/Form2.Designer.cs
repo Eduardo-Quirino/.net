@@ -70,7 +70,7 @@ namespace Login_e_Senha
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
+            this.BackColor = System.Drawing.Color.Yellow;
             this.ClientSize = new System.Drawing.Size(408, 302);
             this.Controls.Add(this.btn_fechar);
             this.Controls.Add(this.lbl_info);

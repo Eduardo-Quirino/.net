@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace Login_e_Senha
 {
@@ -61,6 +62,33 @@ namespace Login_e_Senha
         private void txt_nome_TextChanged(object sender, EventArgs e)
         {
           
+        }
+
+        private void Form_Principal_KeyPress(object sender, KeyPressEventArgs e)
+        {
+                if (e.KeyChar == Convert.ToChar(13))
+                {
+                    e.Handled = true;
+                    SendKeys.Send("{TAB }");
+                }
+        }
+
+        private void textBox1_Validating(object sender, CancelEventArgs e)
+        {
+            string strRegex = "^([a-zA-Z0-9_\\-\\.]+)@((\\[[0-9]{1,3}" + "\\.[0-9]{1,3}\\.[0-9]{1,3}\\.)|(([a-zA-Z0-9\\-]+\\" + ".)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\\]?)$";
+            Regex re = new Regex(strRegex);
+            if ((re.IsMatch(txtEmail.Text)))
+            {
+                txtEmail.BackColor = Color.Yellow;
+                errorProvider1.SetError(txtEmail, "");
+            }
+            else
+            {
+                txtEmail.BackColor = Color.WhiteSmoke;
+                errorProvider1.SetError(txtEmail, "Email Inválido");
+                txtEmail.Text = "";
+                e.Cancel = true;
+            }
         }
     }
 }

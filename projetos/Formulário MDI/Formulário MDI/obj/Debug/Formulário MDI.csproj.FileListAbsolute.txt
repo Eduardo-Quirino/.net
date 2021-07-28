@@ -1,0 +1,11 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\bin\Debug\Formulário MDI.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\bin\Debug\Formulário MDI.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\bin\Debug\Formulário MDI.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário MDI.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário_MDI.frmPai.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário_MDI.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário MDI.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário MDI.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário MDI.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário MDI.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Formulário MDI\Formulário MDI\obj\Debug\Formulário_MDI.frmFilho.resources
