@@ -1,0 +1,10 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\bin\Debug\Movi-teclas.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\bin\Debug\Movi-teclas.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\bin\Debug\Movi-teclas.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\obj\Debug\Movi-teclas.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\obj\Debug\Movi_teclas.FrmMovimentaTeclas.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\obj\Debug\Movi_teclas.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\obj\Debug\Movi-teclas.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\obj\Debug\Movi-teclas.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\obj\Debug\Movi-teclas.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Movi-teclas\Movi-teclas\obj\Debug\Movi-teclas.pdb

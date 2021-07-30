@@ -1,0 +1,10 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\bin\Debug\Cadastro de Agenda.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\bin\Debug\Cadastro de Agenda.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\bin\Debug\Cadastro de Agenda.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\obj\Debug\Cadastro de Agenda.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\obj\Debug\Cadastro_de_Agenda.Form1.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\obj\Debug\Cadastro_de_Agenda.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\obj\Debug\Cadastro de Agenda.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\obj\Debug\Cadastro de Agenda.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\obj\Debug\Cadastro de Agenda.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Cadastro de Agenda\Cadastro de Agenda\obj\Debug\Cadastro de Agenda.pdb

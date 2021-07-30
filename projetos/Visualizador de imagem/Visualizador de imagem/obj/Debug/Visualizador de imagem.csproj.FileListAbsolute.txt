@@ -1,0 +1,10 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\bin\Debug\Visualizador de imagem.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\bin\Debug\Visualizador de imagem.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\bin\Debug\Visualizador de imagem.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\obj\Debug\Visualizador de imagem.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\obj\Debug\Visualizador_de_imagem.FrmImagem.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\obj\Debug\Visualizador_de_imagem.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\obj\Debug\Visualizador de imagem.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\obj\Debug\Visualizador de imagem.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\obj\Debug\Visualizador de imagem.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Visualizador de imagem\Visualizador de imagem\obj\Debug\Visualizador de imagem.pdb

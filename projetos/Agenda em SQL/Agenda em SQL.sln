@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda em SQL", "Agenda em SQL\Agenda em SQL.csproj", "{0B57CD72-0BD1-4D4E-94DC-2CABCA57C9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B57CD72-0BD1-4D4E-94DC-2CABCA57C9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B57CD72-0BD1-4D4E-94DC-2CABCA57C9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B57CD72-0BD1-4D4E-94DC-2CABCA57C9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B57CD72-0BD1-4D4E-94DC-2CABCA57C9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {379A00B6-941D-49B7-8560-B30475C8A849}
+	EndGlobalSection
+EndGlobal

@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Visualizador_de_imagem
 {
-    static class Program
+    static class ClassImagem
     {
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
@@ -16,7 +16,7 @@ namespace Visualizador_de_imagem
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmImagem());
         }
     }
 }

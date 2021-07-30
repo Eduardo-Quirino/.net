@@ -1,0 +1,12 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\bin\Debug\Agenda em SQL.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\bin\Debug\Agenda em SQL.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\bin\Debug\Agenda em SQL.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\obj\Debug\Agenda em SQL.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\obj\Debug\Agenda_em_SQL.frmAgendaSQL.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\obj\Debug\Agenda_em_SQL.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\obj\Debug\Agenda em SQL.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\obj\Debug\Agenda em SQL.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\obj\Debug\Agenda em SQL.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\obj\Debug\Agenda em SQL.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\bin\Debug\CadastrodeAgendas.mdf
+C:\Users\edu35\Documents\Senac\.net\projetos\Agenda em SQL\Agenda em SQL\bin\Debug\CadastrodeAgendas_log.ldf

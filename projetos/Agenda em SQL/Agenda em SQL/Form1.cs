@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Visualizador_de_imagem
+namespace Agenda_em_SQL
 {
-    public partial class Form1 : Form
+    public partial class frmAgendaSQL : Form
     {
-        public Form1()
+        public frmAgendaSQL()
         {
             InitializeComponent();
         }

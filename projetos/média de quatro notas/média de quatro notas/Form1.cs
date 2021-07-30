@@ -43,7 +43,12 @@ namespace média_de_quatro_notas
 
         private void btnSair_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            string texto = "Deseja Sair do Programa?";
+            string titulo = "++++ FINALIZANDO ++++";
+            if (MessageBox.Show(texto, titulo, MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.Yes)
+            {
+                this.Close();
+            }
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\bin\Debug\Tratamento de Erro de Divisão.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\bin\Debug\Tratamento de Erro de Divisão.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\bin\Debug\Tratamento de Erro de Divisão.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\obj\Debug\Tratamento de Erro de Divisão.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\obj\Debug\Tratamento_de_Erro_de_Divisão.Frm_Excecao.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\obj\Debug\Tratamento_de_Erro_de_Divisão.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\obj\Debug\Tratamento de Erro de Divisão.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\obj\Debug\Tratamento de Erro de Divisão.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\obj\Debug\Tratamento de Erro de Divisão.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Tratamento de Erro de Divisão\Tratamento de Erro de Divisão\obj\Debug\Tratamento de Erro de Divisão.pdb

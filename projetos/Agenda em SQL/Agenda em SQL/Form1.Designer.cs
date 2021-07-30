@@ -1,7 +1,7 @@
 ﻿
-namespace Visualizador_de_imagem
+namespace Agenda_em_SQL
 {
-    partial class Form1
+    partial class frmAgendaSQL
     {
         /// <summary>
         /// Variável de designer necessária.
@@ -29,10 +29,21 @@ namespace Visualizador_de_imagem
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // frmAgendaSQL
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(698, 428);
+            this.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
+            this.MaximizeBox = false;
+            this.Name = "frmAgendaSQL";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Agenda";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

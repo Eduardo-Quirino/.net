@@ -58,14 +58,11 @@ namespace Lista_de_Nomes
 
         private void btnSair_Click(object sender, EventArgs e)
         {
-            if(MessageBox.Show("Deseja sair do programa?","** Finalizando o Programa **",MessageBoxButtons.YesNo,MessageBoxIcon.Question) == DialogResult.Yes)
+            string texto = "Deseja Sair do Programa?";
+            string titulo = "++++ FINALIZANDO ++++";
+            if (MessageBox.Show(texto, titulo, MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1) == DialogResult.Yes)
             {
-                Application.Exit();
-            }
-            else
-            {
-                txtNome.Clear();
-                txtNome.Focus();
+                this.Close();
             }
         }
 

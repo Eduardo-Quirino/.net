@@ -1,3 +1,7 @@
+#                  *PROGRAMAS CRIADOS*                                       
+
+
+
 ## ***Programa contador de horas e data local pelo sistema***
 
 ![image](https://user-images.githubusercontent.com/69724072/127190012-d58daed8-b36e-450e-9c3c-bf8dac1bf0b1.png)
@@ -23,6 +27,5 @@
 ---
 ![image](https://user-images.githubusercontent.com/69724072/127268583-d39bf05c-4d7e-4c42-a2ab-5750ed863356.png)
 - Programa de calculo de notas com média final e janela individual de aprovação.
+
 ---
-![image](https://user-images.githubusercontent.com/69724072/127268757-7fac21e0-9e8d-4f90-80f3-8c8f462e198c.png)
-- Programa contador de data e horas, com informações coletadas direto do sistema local .

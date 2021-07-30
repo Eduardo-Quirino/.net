@@ -1,0 +1,26 @@
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Criação de Menu.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Criação de Menu.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Criação de Menu.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação de Menu.csproj.AssemblyReference.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação_de_Menu.FrmPrincipal.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação_de_Menu.Properties.Resources.resources
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação de Menu.csproj.GenerateResource.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação de Menu.csproj.CoreCompileInputs.cache
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação de Menu.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação de Menu.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Lista de Nomes.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Movi-teclas.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\média de quatro notas.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Relógio.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Visualizador de imagem.exe
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Lista de Nomes.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Lista de Nomes.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Movi-teclas.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Movi-teclas.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\média de quatro notas.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\média de quatro notas.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Relógio.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Relógio.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Visualizador de imagem.pdb
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\bin\Debug\Visualizador de imagem.exe.config
+C:\Users\edu35\Documents\Senac\.net\projetos\Criação de Menu\Criação de Menu\obj\Debug\Criação de Menu.csproj.CopyComplete
