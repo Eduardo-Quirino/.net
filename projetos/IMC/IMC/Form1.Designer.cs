@@ -125,9 +125,9 @@ namespace IMC
             // pictureBox1
             // 
             this.pictureBox1.Image = global::IMC.Properties.Resources.corpo_imc;
-            this.pictureBox1.Location = new System.Drawing.Point(346, 60);
+            this.pictureBox1.Location = new System.Drawing.Point(325, 60);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(360, 251);
+            this.pictureBox1.Size = new System.Drawing.Size(380, 255);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
@@ -135,7 +135,7 @@ namespace IMC
             // btnSair
             // 
             this.btnSair.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.btnSair.Location = new System.Drawing.Point(162, 353);
+            this.btnSair.Location = new System.Drawing.Point(170, 353);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(170, 41);
             this.btnSair.TabIndex = 10;
@@ -146,7 +146,7 @@ namespace IMC
             // btnLimpar
             // 
             this.btnLimpar.BackColor = System.Drawing.SystemColors.AppWorkspace;
-            this.btnLimpar.Location = new System.Drawing.Point(387, 353);
+            this.btnLimpar.Location = new System.Drawing.Point(423, 353);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(170, 41);
             this.btnLimpar.TabIndex = 11;
