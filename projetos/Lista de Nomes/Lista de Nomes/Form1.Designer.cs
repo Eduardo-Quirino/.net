@@ -64,7 +64,7 @@ namespace Lista_de_Nomes
             this.lstNome.ItemHeight = 16;
             this.lstNome.Location = new System.Drawing.Point(28, 73);
             this.lstNome.Name = "lstNome";
-            this.lstNome.Size = new System.Drawing.Size(365, 372);
+            this.lstNome.Size = new System.Drawing.Size(335, 372);
             this.lstNome.Sorted = true;
             this.lstNome.TabIndex = 2;
             this.lstNome.UseWaitCursor = true;
@@ -73,9 +73,9 @@ namespace Lista_de_Nomes
             // btnAdiciona
             // 
             this.btnAdiciona.BackColor = System.Drawing.Color.Chocolate;
-            this.btnAdiciona.Location = new System.Drawing.Point(399, 73);
+            this.btnAdiciona.Location = new System.Drawing.Point(390, 73);
             this.btnAdiciona.Name = "btnAdiciona";
-            this.btnAdiciona.Size = new System.Drawing.Size(131, 32);
+            this.btnAdiciona.Size = new System.Drawing.Size(160, 50);
             this.btnAdiciona.TabIndex = 3;
             this.btnAdiciona.Text = "&Adicionar Item";
             this.btnAdiciona.UseVisualStyleBackColor = false;
@@ -84,9 +84,9 @@ namespace Lista_de_Nomes
             // btnRemove
             // 
             this.btnRemove.BackColor = System.Drawing.Color.Chocolate;
-            this.btnRemove.Location = new System.Drawing.Point(399, 132);
+            this.btnRemove.Location = new System.Drawing.Point(390, 147);
             this.btnRemove.Name = "btnRemove";
-            this.btnRemove.Size = new System.Drawing.Size(131, 32);
+            this.btnRemove.Size = new System.Drawing.Size(160, 50);
             this.btnRemove.TabIndex = 4;
             this.btnRemove.Text = "&Remover Item";
             this.btnRemove.UseVisualStyleBackColor = false;
@@ -95,9 +95,9 @@ namespace Lista_de_Nomes
             // btnRemoveTudo
             // 
             this.btnRemoveTudo.BackColor = System.Drawing.Color.Chocolate;
-            this.btnRemoveTudo.Location = new System.Drawing.Point(399, 193);
+            this.btnRemoveTudo.Location = new System.Drawing.Point(390, 231);
             this.btnRemoveTudo.Name = "btnRemoveTudo";
-            this.btnRemoveTudo.Size = new System.Drawing.Size(131, 32);
+            this.btnRemoveTudo.Size = new System.Drawing.Size(160, 50);
             this.btnRemoveTudo.TabIndex = 5;
             this.btnRemoveTudo.Text = "Remover &Tudo";
             this.btnRemoveTudo.UseVisualStyleBackColor = false;
@@ -106,9 +106,9 @@ namespace Lista_de_Nomes
             // btnCancelar
             // 
             this.btnCancelar.BackColor = System.Drawing.Color.Chocolate;
-            this.btnCancelar.Location = new System.Drawing.Point(399, 254);
+            this.btnCancelar.Location = new System.Drawing.Point(390, 315);
             this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(131, 32);
+            this.btnCancelar.Size = new System.Drawing.Size(160, 50);
             this.btnCancelar.TabIndex = 6;
             this.btnCancelar.Text = "&Cancela";
             this.btnCancelar.UseVisualStyleBackColor = false;
@@ -117,9 +117,9 @@ namespace Lista_de_Nomes
             // btnSair
             // 
             this.btnSair.BackColor = System.Drawing.Color.Chocolate;
-            this.btnSair.Location = new System.Drawing.Point(399, 315);
+            this.btnSair.Location = new System.Drawing.Point(390, 391);
             this.btnSair.Name = "btnSair";
-            this.btnSair.Size = new System.Drawing.Size(131, 32);
+            this.btnSair.Size = new System.Drawing.Size(160, 50);
             this.btnSair.TabIndex = 7;
             this.btnSair.Text = "&Sair";
             this.btnSair.UseVisualStyleBackColor = false;
