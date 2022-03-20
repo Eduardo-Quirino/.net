@@ -47,5 +47,15 @@ namespace IMC
             label_resultado_situacao.Text = " ";
             textBox_peso.Focus();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form_IMC_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

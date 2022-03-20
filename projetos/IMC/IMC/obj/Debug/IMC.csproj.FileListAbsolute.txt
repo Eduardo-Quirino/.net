@@ -19,3 +19,14 @@ C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\IMC\IMC\obj\Debu
 C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
 C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\IMC\IMC\obj\Debug\IMC.exe
 C:\Users\Eduardo\OneDrive\Documentos\Projetos Web\.net\projetos\IMC\IMC\obj\Debug\IMC.pdb
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.Form_IMC.resources
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\Eduardo\Documents\Progetos\.net\projetos\IMC\IMC\obj\Debug\IMC.pdb

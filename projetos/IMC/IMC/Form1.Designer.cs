@@ -54,6 +54,7 @@ namespace IMC
             this.label1.Size = new System.Drawing.Size(441, 29);
             this.label1.TabIndex = 0;
             this.label1.Text = "Índice de Massa Corpórea - IMC";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblPeso
             // 
@@ -180,6 +181,7 @@ namespace IMC
             this.Name = "Form_IMC";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form_IMC_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
